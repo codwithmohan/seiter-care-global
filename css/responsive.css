@@ -185,4 +185,5 @@
     .footer-img {margin-top: -7px;}
     .mail a span {display: none;}
     .mail a i {display: flex;}
+    .feature-main-slider.row {margin: 0; overflow: hidden; };
 }
