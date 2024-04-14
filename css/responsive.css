@@ -33,7 +33,8 @@
     .copyright {padding-bottom: 35px;}
 }
 @media screen and (max-width:991px) {
-    .logo a img {max-width: 150px;}
+    .menu>ul>li{min-height: 110px;}
+    .logo a{max-width: 135px;}
     #care {padding: 70px 0;}
     .shelter-txt {max-width: 100%;}
     .shelter-txt h4 {font-size: 20px;}
@@ -137,6 +138,7 @@
     .menu>ul>li:hover .dropdown { top: 0;}
 }
 @media screen and (max-width: 575px) {
+    .logo a {max-width: 120px;}
     .social-icons { justify-content: center !important;}
     .social-icons span {display: none;}
     .copyright {padding-bottom: 25px;}
@@ -163,7 +165,7 @@
     h2 {font-size: 22px;}
     .btn {padding: 0 35px;}
     #recent {padding-bottom: 70px;}
-    .care-content-main { padding-top: 10px;}
+    .care-content-main { padding-top: 10px;justify-content: center;}git
     .stars::after { left: -100px; width: 80px;}
     .stars::before { right: -100px; width: 80px;}
     #care {padding-top: 40px; padding-bottom: 50px;}
